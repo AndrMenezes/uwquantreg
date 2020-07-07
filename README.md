@@ -10,7 +10,7 @@
 The goal of `uwquantreg` is to provide tools for fitting unit-Weibull
 quantile regression proposed by [Mazucheli et
 al. (2020)](https://www.tandfonline.com/doi/abs/10.1080/02664763.2019.1657813?journalCode=cjas20).
-Also, the Zero-or-One inflation model are also available.
+The Zero-or-One inflation model are also available.
 
 ## Installation
 
