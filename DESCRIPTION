@@ -1,0 +1,17 @@
+Package: uwquantreg
+Type: Package
+Title: unit-Weibull quantile regression
+Version: 0.1.0
+Author: André F. B. Menezes
+Maintainer: André F. B. Menezes <andrefelipemaringa@gmail.com>
+Description: Estimation and inference methods for unit-Weibull quantile regression.
+License: GPL-3
+Imports: stats, quantreg, Formula, MASS
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Suggests: 
+    testthat,
+    simplexreg
+Depends: 
+    R (>= 2.10)
